@@ -3,3 +3,5 @@ window.addEventListener('load', function () {
       alert('Jammer, probeer het nog eens');
   });
 });
+
+//niet klikbare link, alert na hover
