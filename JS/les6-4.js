@@ -14,7 +14,6 @@ window.addEventListener('load', function () {
           console.log('op enter');
           setTimeout(function () {
               console.log('alert na 1sec');
-
               alert(text);
           }, 1000);
       }
